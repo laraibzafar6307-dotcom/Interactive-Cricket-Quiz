@@ -72,8 +72,8 @@ This project helped us practice:
 
 ## Team Members
 
-- Wania Ahmed
 - Laraib Zafar
+- Wania Ahmed
 
 ## License
 
